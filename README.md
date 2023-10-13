@@ -8,7 +8,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AudioSep-colab/blob/main/AudioSep_colab.ipynb) | AudioSep_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AudioSep-colab/blob/main/AudioSep_colab.ipynb) | AudioSep_colab (gradio)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Audio-AGI/AudioSep/blob/main/AudioSep_Colab.ipynb) | AudioSep_colab (thanks to @badayvedat ❤)
 
 ## Main Repo
 https://github.com/Audio-AGI/AudioSep <br />
